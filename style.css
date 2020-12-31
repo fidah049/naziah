@@ -22,8 +22,13 @@ body{
     text-align: center;
 }
 
+<<<<<<< HEAD
 #footer {
     width: 1009%;
+=======
+#header {
+    width: 100%;
+>>>>>>> developmant-1.0
     height: 50px;
     line-height: 50px;
     background-color: burlywood;
